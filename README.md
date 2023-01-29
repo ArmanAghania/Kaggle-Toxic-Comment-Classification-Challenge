@@ -2,6 +2,8 @@
 
 Competition Link : https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/overview
 
+**For getting the data you need to get your kaggle.json API token from kaggle.com and submit to the competition so you don't get the Forbidden Error**
+
 This is not the final model but some practice towards text classification : 
 
     Precision: 0.9102450609207153, Recall: 0.9126701951026917, Accuracy:0.47943830490112305
